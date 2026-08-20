@@ -1,0 +1,66 @@
+site_name: Portal de Notícias - Grupo 3
+site_url: https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G3_ProjetoPortalNoticias_Entrega_01
+
+repo_url: https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G3_ProjetoPortalNoticias_Entrega_01
+repo_name: GitHub
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/UnBArqDsw2026-2-Turma01/2026.2-T01-_G3_ProjetoPortalNoticias_Entrega_01
+
+theme:
+  name: material
+  logo: assets/burburinho.jpeg
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: custom    
+      accent: custom        
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+  features:
+    - navigation.tabs
+    - content.code.copy
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+
+nav:
+  - Apresentação: index.md
+  - Atas de Reuniões: Projeto/Atas_1.md
+  - 1. Desenho de Software (Base):
+    - 1. Base: Base/1.Base.md
+    - Relatórios:
+      - 1.1.1. SubEquipe 01: Base/Relatórios/1.1.1.SubEquipe_01.md
+      - 1.1.2. SubEquipe 02: Base/Relatórios/1.1.2.SubEquipe_02.md
+      - 1.1.3. SubEquipe 03: Base/Relatórios/1.1.3.SubEquipe_03.md
+    - 1.2. Participações - Base: Base/1.2.ParticipacoesBase.md
+    - 1.3. Iniciativas Extras - Base: Base/1.3.IniciativasExtras.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_css:
+  - stylesheets/custom.css
