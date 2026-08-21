@@ -29,3 +29,8 @@ Para iniciar o site localmente, utilize o comando:
 ```shell
 docsify serve ./docs
 ```
+# Recomendações para a equipe
+- Manter rastros claros
+- Pontos de vista fundamentados e justificados
+- Estudar cada processo/metodologia/abordagem para não falar abobrinha
+- Processo deve ser coerente com o projeto
