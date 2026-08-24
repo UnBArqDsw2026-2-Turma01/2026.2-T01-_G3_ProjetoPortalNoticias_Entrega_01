@@ -71,18 +71,30 @@ Este repositório traz um template de repo de documentação a ser seguido pelos
 
 ## Tecnologia
 
-A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
+A geração do site estático é realizada utilizando o [MkDocs](https://www.mkdocs.org/) com o tema [Material](https://squidfunnel.github.io/mkdocs-material/).
+
+### Instalando as dependências
+
+É recomendado criar um ambiente virtual Python antes de instalar:
 
 ```shell
-"Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages."
+python -m venv venv
 ```
 
-### Instalando o docsify
-
-Execute o comando:
+Ative o ambiente virtual:
 
 ```shell
-npm i docsify-cli -g
+# Windows
+venv\Scripts\activate
+
+# Linux/macOS
+source venv/bin/activate
+```
+
+Instale as dependências:
+
+```shell
+pip install -r requirements.txt
 ```
 
 ### Executando localmente
@@ -90,10 +102,12 @@ npm i docsify-cli -g
 Para iniciar o site localmente, utilize o comando:
 
 ```shell
-docsify serve ./docs
+mkdocs serve
 ```
+
 # Recomendações para a equipe
 - Manter rastros claros
 - Pontos de vista fundamentados e justificados
 - Estudar cada processo/metodologia/abordagem para não falar abobrinha
 - Processo deve ser coerente com o projeto
+
