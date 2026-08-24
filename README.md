@@ -6,6 +6,69 @@ Repositório que deve ser utilizado como template inicial pelos grupos da matér
 
 Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
 
+## Membros do Grupo
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/andrehsb.png" width="150" height="150" style="border-radius:50%;" alt="André Henrique"/><br>
+      <b>André Henrique</b><br>
+      <a href="https://github.com/andrehsb">andrehsb</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/87036806?v=4" width="150" height="150" style="border-radius:50%;" alt="Luís Cunha"/><br>
+      <b>Luís Cunha</b><br>
+      <a href="https://github.com/cunha-luiss">cunha-luiss</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/giovannabrito19.png" width="150" height="150" style="border-radius:50%;" alt="Giovanna Aguiar"/><br>
+      <b>Giovanna Aguiar</b><br>
+      <a href="https://github.com/giovannabrito19">giovannabrito19</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/giovannafg.png" height="150" style="border-radius:50%;" alt="Giovanna Felipe"/><br>
+      <b>Giovanna Felipe</b><br>
+      <a href="https://github.com/giovannafg">giovannafg</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Withy-S.png" width="150" height="150" style="border-radius:50%;" alt="Davi Feitosa"/><br>
+      <b>Davi Feitosa</b><br>
+      <a href="https://github.com/Withy-S">Withy-S</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ojplc.png" width="150" height="150" style="border-radius:50%;" alt="João Pedro Lopes"/><br>
+      <b>João Pedro Lopes</b><br>
+      <a href="https://github.com/ojplc">ojplc</a>
+    </td>
+  </tr>
+</table>
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/jsalless.png" width="150" height="150" style="border-radius:50%;" alt="Johnnatan de Salles"/><br>
+      <b>Johnnatan de Salles</b><br>
+      <a href="https://github.com/jsalless">jsalless</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/juliagabriellafs.png" width="150" height="150" style="border-radius:50%;" alt="Júlia Gabriella"/><br>
+      <b>Júlia Gabriella</b><br>
+      <a href="https://github.com/juliagabriellafs">juliagabriellafs</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/mateiki.png" width="150" height="150" style="border-radius:50%;" alt="Matheus Eiki"/><br>
+      <b>Matheus Eiki</b><br>
+      <a href="https://github.com/mateiki">mateiki</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/PedroGTG.png" width="150" height="150" style="border-radius:50%;" alt="Pedro Henrique"/><br>
+      <b>Pedro Henrique</b><br>
+      <a href="https://github.com/PedroGTG">PedroGTG</a>
+    </td>
+  </tr>
+</table>
+
 ## Tecnologia
 
 A geração do site estático é realizada utilizando o [MkDocs](https://www.mkdocs.org/) com o tema [Material](https://squidfunnel.github.io/mkdocs-material/).
@@ -42,4 +105,9 @@ Para iniciar o site localmente, utilize o comando:
 mkdocs serve
 ```
 
-O site estará disponível em `http://127.0.0.1:8000/`.
+# Recomendações para a equipe
+- Manter rastros claros
+- Pontos de vista fundamentados e justificados
+- Estudar cada processo/metodologia/abordagem para não falar abobrinha
+- Processo deve ser coerente com o projeto
+
