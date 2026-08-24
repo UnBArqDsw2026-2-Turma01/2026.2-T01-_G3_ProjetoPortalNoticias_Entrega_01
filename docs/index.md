@@ -49,4 +49,4 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 
 | Versão | Descrição | Autor | Data | Revisor |
 |:-:|:-:|:-:|:-:|:-:|
-| 1.0 | Criação do documento | João Pedro Lopes da Cruz | 20/08/2026 | - |
+| 1.0 | Criação do documento | João Pedro Lopes da Cruz | 20/08/2026 | Luís Felipe Parreira Cunha |
