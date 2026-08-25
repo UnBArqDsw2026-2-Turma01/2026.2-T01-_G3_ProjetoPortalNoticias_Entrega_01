@@ -26,7 +26,7 @@ A reunião teve início com a centralização dos integrantes e materiais em um 
 
 ### **Decisões Tomadas**
 
-> * **Objeto de Estudo Definido:** O projeto terá como foco o portal **UnB Notícias**, explorando seus fluxos de formulários, envio de conteúdos e usabilidade.  
+> * **Objeto de Estudo Definido:** O projeto terá como foco principal o portal **UnB Notícias**, explorando seus fluxos de formulários, envio de conteúdos e usabilidade.  
 > * **Divisão Estrutural:** A equipe foi organizada em **3 subgrupos** para distribuição das atividades e desenvolvimento dos artefatos da entrega.  
 > * **Centralização das Ferramentas:** Uso do **Figma** para documentação/modelagem visual e do **WhatsApp** para a comunicação integrada entre as subequipes.
 
@@ -50,4 +50,4 @@ A reunião teve início com a centralização dos integrantes e materiais em um 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---- | :---- | :---- | :---- | :---- |
-| **0.1** | 18/08/2026 | Criação da Ata da Reunião Inicial (Entrega 01\) pelo Gemini a partir da transcrição da reunião | Luís Felipe Parreira Cunha | ?? |
+| **0.1** | 18/08/2026 | Criação da Ata da Reunião Inicial (Entrega 01\) pelo Gemini a partir da transcrição da reunião | Luís Felipe Parreira Cunha | João Pedro Lopes da Cruz |
