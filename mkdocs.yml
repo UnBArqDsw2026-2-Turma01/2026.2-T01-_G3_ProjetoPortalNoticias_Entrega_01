@@ -11,7 +11,7 @@ extra:
 
 theme:
   name: material
-  logo: assets/burburinho.jpeg
+  logo: assets/SapoBurburinho.svg
   palette:
 
     # Palette toggle for automatic mode
@@ -50,6 +50,7 @@ nav:
   - Atas de Reuniões:
     - Projeto/Atas_1.md
     - Projeto/Atas_subgrupo_1.md
+    - Projeto/Atas_subgrupo_3.md
     - Projeto/Atas_2.md
   - 1. Desenho de Software (Base):
     - 1. Base: Base/1.Base.md
