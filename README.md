@@ -10,6 +10,7 @@ O **Burburinho** é um portal de notícias desenvolvido para reunir informaçõe
 
 Este projeto foi desenvolvido para a disciplina **Arquitetura e Desenho de Software** e tem como objetivo documentar a concepção e o desenvolvimento de um site de notícias com conteúdo jornalístico e contribuições dos usuários (UGC, ou *User-Generated Content*).
 
+[GitPages](https://unbarqdsw2026-2-turma01.github.io/2026.2-T01-_G3_ProjetoPortalNoticias_Entrega_01/)
 ## Membros do Grupo
 
 <table align="center">
