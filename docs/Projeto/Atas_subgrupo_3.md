@@ -44,7 +44,7 @@ Nos **BPMNs**, foram comparados os fluxos elaborados a partir da exploração do
 **Observação:** A reunião contou com gravação, confira em:
 <br>
 [Gravação](https://drive.google.com/file/d/1mOp-UzGg8aBjF-7oboFsIN3-t-5lOfQQ/view?usp=sharing)
-**###**
+
 
 **### Histórico de Versões**
 
