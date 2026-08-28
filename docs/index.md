@@ -50,3 +50,4 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 | Versão | Descrição | Autor | Data | Revisor |
 |:-:|:-:|:-:|:-:|:-:|
 | 1.0 | Criação do documento | João Pedro Lopes da Cruz | 20/08/2026 | Luís Felipe Parreira Cunha |
+| 1.1 | Adição dos artefatos individuais de André Henrique (SubEquipe 02): Diagrama de Estimativas, SIG NFR Framework e BPMN do Fluxo de Seguir uma Tag, com atualização do relatório (1.1.2) e da tabela de participações (1.2) | André Henrique de Souza Belarmino | 27/08/2026 | - |
