@@ -39,7 +39,7 @@ O objetivo do projeto é desenhar uma aplicação de portal de notícinas, nomea
 ## Screenshots da Primeira Entrega
 
 <figure style="text-align: center;">
-    <img src="assets/prototipo/cultura.png" alt="Tela de um tópico específico no protótipo" style="max-width: 100%;">
+    <img src="assets/prototipo/cultura.svg" alt="Tela de um tópico específico no protótipo" style="max-width: 100%;">
     <figcaption>
         <p style="text-align: center; font-size: 10pt;">
             Figura: Imagem do protótipo, funcionalidade dos tópicos (Fonte: Equipe, 2026)
