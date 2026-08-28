@@ -1,10 +1,14 @@
-# RepositorioTemplate
+# Portal de Notícias Burburinho
 
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+<p align="center">
+  <img src="docs/assets/burburinho.jpeg" alt="Página inicial do portal de notícias Burburinho" width="700">
+</p>
+
+O **Burburinho** é um portal de notícias desenvolvido para reunir informações sobre atualidades e assuntos de interesse geral em um único espaço. A proposta do projeto é oferecer uma experiência simples para que os usuários acompanhem notícias e também participem da produção de conteúdo, sugerindo e compartilhando publicações com a comunidade.
 
 ## Introdução
 
-Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
+Este projeto foi desenvolvido para a disciplina **Arquitetura e Desenho de Software** e tem como objetivo documentar a concepção e o desenvolvimento de um site de notícias com conteúdo jornalístico e contribuições dos usuários (UGC, ou *User-Generated Content*).
 
 ## Membros do Grupo
 

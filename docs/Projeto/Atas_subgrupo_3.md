@@ -50,4 +50,4 @@ Nos **BPMNs**, foram comparados os fluxos elaborados a partir da exploração do
 
 | Versão  | Data       | Descrição                                             | Autor(es)                 | Revisor(es) |
 | ------- | ---------- | ----------------------------------------------------- | ------------------------- | ----------- |
-| **0.1** | 27/08/2026 | Resumo da reunião | Giovanna Felipe Guimarães |             |
+| **0.1** | 27/08/2026 | Resumo da reunião | Giovanna Felipe Guimarães | Johnnatan Salles |
