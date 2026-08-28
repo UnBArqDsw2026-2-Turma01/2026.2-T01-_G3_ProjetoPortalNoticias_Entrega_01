@@ -1,6 +1,6 @@
 # Ata subgrupo 2
 
-# **REUNIÃO 24/08 - Desenho de Software (Entrega 01)**
+# **REUNIÃO 24/08 - Desenho de Software (Entrega 01)**////////
 
 **Data:** 24/08/2026
 **Hora:** 21h08
