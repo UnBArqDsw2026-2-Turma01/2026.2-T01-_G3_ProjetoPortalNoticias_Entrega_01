@@ -12,14 +12,14 @@
 
 Davi Gonçalves Leite Feitosa, Giovanna Felipe Guimarães e Johnnatan de Salles Sanches.
 
-**### Pauta**
+### Pauta
 
 > 1. Comparação dos mapas mentais individuais.
 > 2. Discussão dos requisitos não funcionais e SIGs individuais.
 > 3. Análise dos fluxos levantados na engenharia reversa e dos BPMNs.
 > 4. Discussão dos pontos levantados a partir da análise do G1 Notícias.
 
-**### Discussões Realizadas**
+### Discussões Realizadas
 
 A reunião foi realizada para comparar e discutir os artefatos individuais desenvolvidos pelos integrantes no Figma. Nos **mapas mentais**, foram analisados os diferentes atores, fontes e temas envolvidos na produção e distribuição de notícias, identificando pontos que se complementaram entre os integrantes e adicionando post-its nos pontos que se destacaram de cada membro.
 
@@ -27,7 +27,7 @@ Nos **SIGs do NFR Framework**, foram discutidos os requisitos de **segurança, d
 
 Nos **BPMNs**, foram comparados os fluxos elaborados a partir da exploração do G1, incluindo a renderização dos conteúdos e o envio de mídias pelo “VC no G1”. Como parte do processamento interno não pôde ser visualizada, o grupo discutiu possíveis etapas do fluxo a partir do funcionamento esperado de um portal de notícias.
 
-**### Decisões Tomadas**
+### Decisões Tomadas
 
 > * **Mapas Mentais:** Levar os pontos de destaque identificados por post-it durante a discussão para a reunião geral.
 >
@@ -35,7 +35,7 @@ Nos **BPMNs**, foram comparados os fluxos elaborados a partir da exploração do
 >
 > * **BPMN:** Levar as análises realizadas para a reunião geral e comparar com os fluxos identificados nas outras plataformas.
 
-**### Próximos Passos**
+### Próximos Passos
 
 > * **[O grupo]** Finalizar a documentação dos artefatos individuais e adicionar ao relatório final do subgrupo
 > * **Declarar uso de IA:** Incluir a declaração própria de uso de ferramentas de Inteligência Artificial 
@@ -46,7 +46,7 @@ Nos **BPMNs**, foram comparados os fluxos elaborados a partir da exploração do
 [Gravação](https://drive.google.com/file/d/1mOp-UzGg8aBjF-7oboFsIN3-t-5lOfQQ/view?usp=sharing)
 
 
-**### Histórico de Versões**
+### Histórico de Versões
 
 | Versão  | Data       | Descrição                                             | Autor(es)                 | Revisor(es) |
 | ------- | ---------- | ----------------------------------------------------- | ------------------------- | ----------- |

@@ -1,4 +1,4 @@
-# Ata reunião - Subgrupo 2
+# Ata subgrupo 2
 
 # **REUNIÃO 24/08 - Desenho de Software (Entrega 01)**
 
