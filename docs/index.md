@@ -12,7 +12,7 @@ A proposta consiste na criação de um **Portal de Notícias**, com ênfase em A
 
 ## Alunos
 
-| Matrícula | Aluno |
+| Aluno | Matrícula |
 | -- | -- |
 | ANDRE HENRIQUE DE SOUZA BELARMINO | 241025149 |
 | DAVI GONCALVES LEITE FEITOSA | 232001620 |
@@ -26,12 +26,35 @@ A proposta consiste na criação de um **Portal de Notícias**, com ênfase em A
 | Pedro Henrique Ferreira Xavier| 241025990 |
 
 ## Sobre
+<figure style="text-align: center;">
+    <img src="assets/burburinho.jpeg" alt="Logo burburinho, um sapo é o elemento principal" style="max-width: 100%;">
+    <figcaption>
+        <p style="text-align: center; font-size: 10pt;">
+            Figura: Logo burburinho (Fonte: Equipe, 2026)
+        </p>
+    </figcaption>
+</figure>
 
-Contextualize, usando referências, links, e outros materiais como fontes.
-
+O objetivo do projeto é desenhar uma aplicação de portal de notícinas, nomeado Burburinho, com foco em tópicos gerais e postagens sugeridas pela comunidade
 ## Screenshots da Primeira Entrega
 
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+<figure style="text-align: center;">
+    <img src="assets/prototipo/cultura.png" alt="Tela de um tópico específico no protótipo" style="max-width: 100%;">
+    <figcaption>
+        <p style="text-align: center; font-size: 10pt;">
+            Figura: Imagem do protótipo, funcionalidade dos tópicos (Fonte: Equipe, 2026)
+        </p>
+    </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+    <img src="assets/subGrupo1/signfrGeral.png" alt="SIG NFR Framework" style="max-width: 100%;">
+    <figcaption>
+        <p style="text-align: center; font-size: 10pt;">
+            Figura: SIG NFR Framework (Fonte: Equipe, 2026)
+        </p>
+    </figcaption>
+</figure>
 
 ## Há algo a ser executado?
 
@@ -39,7 +62,6 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 (x) NÃO
 
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
 ## Informações Complementares
 
@@ -50,3 +72,4 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 | Versão | Descrição | Autor | Data | Revisor |
 |:-:|:-:|:-:|:-:|:-:|
 | 1.0 | Criação do documento | João Pedro Lopes da Cruz | 20/08/2026 | Luís Felipe Parreira Cunha |
+| 1.1 | Adição do conteúdo gerado | João Pedro Lopes da Cruz | 27/08/2026 |  |
